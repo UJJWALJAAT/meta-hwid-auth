@@ -1,9 +1,6 @@
 # ============ META HWID LICENSE FILE ============
 # Format:
 #   STATUS=ON / STATUS=OFF   -> tool on/off for MAINTENANCE
-#   <HWID>=<any number>      -> register a HWID (line jaise: A1B2C3D4E5F67890=1)
-#
-# NOTE: Replace EXAMPLE_HWID below with YOUR actual HWID.
-# Example:
+#   <HWID>=<any number>      -> register a HWID (line jaise: 94DF6145CDEF0C8B=1)
 STATUS=ON
-EXAMPLE_HWID=1
+94DF6145CDEF0C8B=1
