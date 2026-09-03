@@ -1,6 +1,6 @@
 # ============ META HWID LICENSE FILE ============
 # Format:
-#   STATUS=ON / STATUS=OFF   -> tool on/off for MAINTENANCE
-#   <HWID>=<any number>      -> register a HWID (line jaise: 94DF6145CDEF0C8B=1)
+#   STATUS=ON / STATUS=OFF
+#   <HWID>=<future unix timestamp>  -> number must be >= 100000 and > now (else expired)
 STATUS=ON
-94DF6145CDEF0C8B=1
+94DF6145CDEF0C8B=9999999999
